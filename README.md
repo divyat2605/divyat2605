@@ -184,7 +184,6 @@ const divya = {
 </table>
 
 ---
----
 
 # 📊 GitHub Analytics
 
@@ -193,8 +192,8 @@ const divya = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=divyat2605&show_icons=true&bg_color=1a1a2e&title_color=E8879E&icon_color=A8D0E8&text_color=c9d1d9&hide_border=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=divyat2605&background=1a1a2e&ring=E8879E&fire=A8D0E8&currStreakNum=c9d1d9&currStreakLabel=E8879E&sideNums=c9d1d9&sideLabels=A8D0E8&dates=8b949e&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=divyat2605&show_icons=true&bg_color=1a1a2e&title_color=E8879E&icon_color=A8D0E8&text_color=c9d1d9&hide_border=true&card_width=400" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=divyat2605&background=1a1a2e&ring=E8879E&fire=A8D0E8&currStreakNum=c9d1d9&currStreakLabel=E8879E&sideNums=c9d1d9&sideLabels=A8D0E8&dates=8b949e&hide_border=true&card_width=400" width="49%" />
 </p>
 
 <p align="center">
