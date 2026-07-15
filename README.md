@@ -41,7 +41,6 @@ const divya = {
     "Agentic Systems Builder"
   ],
   currentlyStudying: "B.Tech CS @ SRM Institute of Science & Technology, Delhi NCR",
-  cgpa: 9.70,
   graduating: 2027,
   location: "Delhi, India",
   philosophy: "Curious enough to question, ambitious enough to build.",
