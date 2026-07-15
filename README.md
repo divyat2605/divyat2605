@@ -204,7 +204,7 @@ const divya = {
 <br>
 
 <p align = "center">
-https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divyat2605&layout=compact&bg_color=1a1a2e&title_color=E8879E&text_color=c9d1d9&hide_border=true
+<img src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divyat2605&layout=compact&bg_color=1a1a2e&title_color=E8879E&text_color=c9d1d9&hide_border=true" width="100%" />
 </p>
 ---
 
