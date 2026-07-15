@@ -27,7 +27,7 @@
 <tr style="border: none;">
 
 <td width="35%" align="center" style="border: none; vertical-align: middle;">
-  <img src="https://raw.githubusercontent.com/divyat2605/divyat2605/main/assets/profile.jpeg" width="100%" style="border-radius: 15px; max-width: 260px; display: block;" alt="Divya Tripathi"/>
+  <img src="https://raw.githubusercontent.com/divyat2605/divyat2605/main/assets/profile.png" width="100%" style="border-radius: 15px; max-width: 260px; display: block;" alt="Divya Tripathi"/>
 </td>
 
 <td width="65%" valign="top" style="border: none;">
